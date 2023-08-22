@@ -1,2 +1,2 @@
 # EP2
-2 projeto em  html e css
+Segundo projeto em  html e css
